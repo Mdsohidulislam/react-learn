@@ -1,0 +1,67 @@
+যারা এসাইনমেন্ট সাবমিট করে ফেলছো তাদের জন্য আজকে তোমার একটা স্পেশাল দিন। এই স্পেশাল দিন সেলিব্রেট করার জন্য তোমার কাছে দুইটা অপশন আছে।
+
+অপশন- ১: এতোদিন তুমি জাভাস্ক্রিপ্ট এর বেশ কয়েকটা জিনিস শিখেছো। সেখান থেকে তুমি ১০টা টপিক সিলেক্ট করো। তারপর এই দশটা টপিক নিয়ে কয়েকটা লাইন লিখে ফেলো। বাংলায় কিংবা ইংরেজিতে। ইংরেজিতে হইলে ভালো। তবে বাংলাতেও হতে পারে। এরপর medium . com নামে একটা ওয়েবসাইট আছে। সেখানে তোমার ব্লগ পাবলিশ করে দাও। টেনশনের কিছু নাই। ভালো হোক বা খারাপ হোক। পাবশিল করতে পারলেই হলো।
+অপশন-২: তুমি চাইলে জাভাস্ক্রিপ্ট এর দশটা টপিক সিলেক্ট করে সেটা নিয়ে একটা ভিডিও বানিয়ে ফেলতে পারো। তারপর সেই ভিডিও ইউটিউবে পাবলিশ করে দিলে।
+.
+আজকের কাজটা অপশনাল। এইটা কোথাও সাবমিট করতে হবে না। তবে এইটা করলে পরবর্তীতে তোমার সিভি/রেজুমি কিংবা ওয়েবসাইট এ এই ব্লগ এর লিংক ইউজ করতে পারবে।
+
+d3s.org/nvd3.org chartjs.org free chart website
+similar in look different in data(component)
+homework react kivabe kaj kore
+
+
+state er vitore add event listener 
+ <button onClick={()=>props.handleAddProduct(props.pro)}><FontAwesomeIcon icon={faShoppingCart} />add to cart</button>
+
+ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCoffee,faShoppingCart} from '@fortawesome/free-solid-svg-icons';
+
+
+ccccccccccc
+img:'https://ibb.co/hDNwf6q',id:'1',
+img:'https://ibb.co/wgYvR7j',id:'2',
+img:'https://ibb.co/JzMqCxx',id:'3',
+img:'https://ibb.co/BtpDZxL',id:'4',
+img:'https://ibb.co/YTT0FZg',id:'5',
+img:'https://ibb.co/dPnzvyk',id:'6',
+img:'https://ibb.co/ZK1sP9M',id:'7',
+img:'https://ibb.co/3NXddF5',id:'8',
+img:'https://ibb.co/4YKPh0t',id:'9',
+img:'https://ibb.co/Vq8Drqg',id:'10',
+img:'https://ibb.co/r6ssb0n',id:'11',
+img:'https://ibb.co/mGds2kj',id:'12,
+img:'https://ibb.co/Nj1x5SR',id:'13',
+img:'https://ibb.co/T1dq52n',id:'14',
+img:'https://ibb.co/R76Ggn8',id:'15',
+ 
+img:'https://ibb.co/6D0PDJy',id:'1',
+img:'https://ibb.co/PrztnS0',id:'2',
+img:'https://ibb.co/bbnrCdZ',id:'3',
+img:'https://ibb.co/SJRd5zD',id:'4',
+img:'https://ibb.co/28LTJv0',id:'5',
+img:'https://ibb.co/94fk2NJ',id:'6',
+img:'https://ibb.co/TrZfZNh',id:'7',
+img:'https://ibb.co/qsX6H5s',id:'8',
+img:'https://ibb.co/vZCwM1g',id:'9',
+img:'https://ibb.co/YX2YVSR',id:'10',
+img:'https://ibb.co/MMH3Bh3',id:'11',
+img:'https://ibb.co/9v7dvwq',id:'12',
+img:'https://ibb.co/bQyjKXW',id:'13',
+img:'https://ibb.co/mvFNVCb',id:'14',
+img:'https://ibb.co/s2p5WP3',id:'15',
+
+profile
+
+
+
+const
+
+
+code format alt+shift+
+
+==>>recharts for graph or chart
+==>> axios.js
+const api='https://ssss'
+axios(api)
+.then(data=>setData(data))
+axios amader data dei obj akare ar fetch thei array akare
